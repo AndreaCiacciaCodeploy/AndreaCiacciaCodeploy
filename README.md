@@ -1,11 +1,8 @@
 👋 Hi, I’m @AndreaCiacciaCodeploy
 
-- Fullstack developer
-- Cloud Solution Architect
-- Founder Codeploy srl
+Fullstack developer / Cloud Solution Architect / Founder Codeploy srl / Formazione Cloud Computing
 
-- www.codeploy.it
-- www.andreaciaccia.it
+www.codeploy.it / www.andreaciaccia.it
 
 <!---
 AndreaCiacciaCodeploy/AndreaCiacciaCodeploy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
