@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack developer / Cloud Solution Architect / Founder Codeploy srl / Formazione Cloud Computing<br>
+Fullstack developer / Cloud Solution Architect / Founder Codeploy srl / Formazione Cloud Computing / AI agents developer<br>
 - www.codeploy.it
 - www.andreaciaccia.com
 - https://www.linkedin.com/in/andreaciaccia/
