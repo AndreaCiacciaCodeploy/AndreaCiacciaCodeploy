@@ -1,8 +1,8 @@
 # 💫 About Me:
 Fullstack developer / Cloud Solution Architect / Founder Codeploy srl / Formazione Cloud Computing<br>
 - www.codeploy.it
-- www.andreaciaccia.it
-- https://www.linkedin.com/in/andreaciacciamanagement/
+- www.andreaciaccia.com
+- https://www.linkedin.com/in/andreaciaccia/
 - https://medium.com/@andrea-ciaccia-codeploy
 - contattami qui -> andrea.ciaccia@codeploy.it
 
